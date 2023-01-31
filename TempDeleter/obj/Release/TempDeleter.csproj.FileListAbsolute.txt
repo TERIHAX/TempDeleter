@@ -1,0 +1,8 @@
+D:\Applications\TempDeleter\TempDeleter\bin\Release\TempDeleter.exe.config
+D:\Applications\TempDeleter\TempDeleter\bin\Release\TempDeleter.exe
+D:\Applications\TempDeleter\TempDeleter\bin\Release\TempDeleter.pdb
+D:\Applications\TempDeleter\TempDeleter\obj\Release\TempDeleter.csproj.AssemblyReference.cache
+D:\Applications\TempDeleter\TempDeleter\obj\Release\TempDeleter.csproj.SuggestedBindingRedirects.cache
+D:\Applications\TempDeleter\TempDeleter\obj\Release\TempDeleter.csproj.CoreCompileInputs.cache
+D:\Applications\TempDeleter\TempDeleter\obj\Release\TempDeleter.exe
+D:\Applications\TempDeleter\TempDeleter\obj\Release\TempDeleter.pdb
